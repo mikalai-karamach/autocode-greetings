@@ -2,6 +2,6 @@ package talks.mjc;
 
 public class FirstApplication {
     public static void main(String[] args) {
-        // Write your code here!
+        // Write you code here
     }
 }
