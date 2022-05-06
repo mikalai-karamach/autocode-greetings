@@ -10,7 +10,7 @@ Update this file by adding a logic of writing to console following: `Hello World
 **_Tip_**: Replace lines `// Write your code here!` with the missing lines.
 You can check section: `Writing first application`.
 
-###Requirements
+### Requirements
 - Project should be compiled with no errors
 - FirstApplication.java file should print `Hello World!` to the console.
 - FirstApplication.java file should not be moved or renamed. 
