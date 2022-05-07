@@ -25,21 +25,6 @@ public class FirstApplicationTest {
     }
 
     @Test
-    public void test1() {
-        assertTrue(false);
-    }
-
-    @Test
-    public void test2() {
-        assertTrue(false);
-    }
-
-    @Test
-    public void test3() {
-        assertTrue(false);
-    }
-
-    @Test
     public void dummyTest() throws IOException {
         String result = Files.walk(Paths.get("src/main/java/talks/mjc"))
                 .filter(Files::isRegularFile)
